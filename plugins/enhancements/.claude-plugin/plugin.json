@@ -1,0 +1,8 @@
+{
+  "name": "enhancements",
+  "description": "OpenShift Enhancement Proposal (EP) management and automation",
+  "version": "0.0.1",
+  "author": {
+    "name": "github.com/openshift-eng"
+  }
+}

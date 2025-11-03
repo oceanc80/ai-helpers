@@ -568,6 +568,21 @@
         }
       ],
       "has_readme": true
+    },
+    {
+      "name": "enhancements",
+      "description": "OpenShift Enhancement Proposal (EP) management and automation",
+      "version": "0.0.1",
+      "commands": [
+        {
+          "name": "new",
+          "description": "Create a new OpenShift Enhancement Proposal (EP)",
+          "synopsis": "/enhancements:new [domain]",
+          "argument_hint": "[domain]"
+        }
+      ],
+      "skills": [],
+      "has_readme": true
     }
   ]
 }
